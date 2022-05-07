@@ -1,0 +1,28 @@
+﻿@model List<Sign_Up_Form.Models.User>
+
+<table class="table table-dark">
+  <thead>
+    <tr>
+      <th scope="col">FirstName</th>
+      <th scope="col">LastName</th>
+      <th scope="col">Email</th>
+      <th scope="col">Gender</th>
+      <th scope="col">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+       
+            @foreach(Sign_Up_Form.Models.User s in Model)
+            {
+                 <tr>
+            <th>@s.firstname</th>
+            <th>@s.lastname</th>
+            <th>@s.email</th>
+            <th>@s.gender</th>
+            <th>@s.date.ToString("dd/MM/yyyy")</th>
+             </tr>
+            }
+           
+       
+    </tbody>
+</table>

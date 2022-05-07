@@ -1,0 +1,48 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sign_Up_Form
+build_property.RootNamespace = Sign_Up_Form
+build_property.ProjectDir = C:\Users\grengo\Desktop\MVC SIGNiNAss\SignupFormAndMVC\Sign Up Form\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\grengo\Desktop\MVC SIGNiNAss\SignupFormAndMVC\Sign Up Form
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/Home/NewsFeed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdzRmVlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/Home/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/grengo/Desktop/MVC SIGNiNAss/SignupFormAndMVC/Sign Up Form/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x0j6sbhtvq
